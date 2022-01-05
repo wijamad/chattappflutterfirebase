@@ -1,16 +1,18 @@
 # chatapp
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### dependencies: 
+ - cupertino_icons: ^1.0.2
+ - get: 4.3.8
+ - firebase_core: ^1.5.0
+ - google_sign_in: 5.1.0
+ - lottie: 1.1.0
+ - introduction_screen: 2.1.0
+ - avatar_glow: 2.0.1
+ - emoji_picker_flutter: 1.0.7
+ - emoji_keyboard_flutter: 1.1.2
+ - firebase_auth: 3.1.1
+ - cloud_firestore: ^2.5.3
+ - get_storage: 2.0.3
+ - intl: 0.17.0
+ - image_picker: 0.8.4+2
+ - firebase_storage: 10.0.5
